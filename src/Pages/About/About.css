@@ -1,0 +1,23 @@
+.About_in{
+  margin-bottom: 30px;
+}
+.About_img{
+  width: 40%;
+}
+.About_txt{
+  width: 60%;
+  padding-left: 25px;
+}
+.About_bot p{
+  margin-bottom: 20px;
+  text-align: center;
+}
+.About_tit{
+  margin-bottom: 20px;
+  text-align: center;
+}
+.About_txt b{
+  display: block;
+  margin-bottom: 8px;
+  text-align: center;
+}
