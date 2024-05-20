@@ -21,7 +21,7 @@ function Contacts() {
         <div className="Contacts_map">
         <iframe className="map"
 			src="https://yandex.ru/map-widget/v1/?um=constructor%3Ac0ad8798afd38aa5bf6025c69a1103160f4dac4f5dd4229cd187b209152f518a&amp;source=constructor"
-			width="100%" height="677" frameborder="0"></iframe>
+			width="100%" height="677" frameborder="0" title='bvc'></iframe>
         </div>
       </div>
     </section>
